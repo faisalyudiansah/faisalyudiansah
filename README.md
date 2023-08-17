@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Faisal Yudiansah</h1>
 <h3 align="center">Learn many things about new technology and software development</h3>
-<img align="right" alt="Coding" width="320" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif">
+<img align="right" alt="Coding" width="310" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif">
 
 - 🌱 I’m currently learning **Banyakkkkk**
 
