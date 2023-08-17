@@ -2,9 +2,9 @@
 <h3 align="center">Learn many things about new technology and software development</h3>
 <img align="right" alt="Coding" width="310" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif">
 
-- 🌱 I’m currently learning **Banyakkkkk**
+- 🌱 I’m currently learning : **Banyakkkkk**
 
-- 💬 Learning **Exploring new technologies and developing software solutions**
+- 💬 Learning : **Exploring new technologies and developing software solutions**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
